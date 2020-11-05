@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.ycs.codecreate;
 
 import org.junit.Test;
 
